@@ -31,4 +31,9 @@ Merry Christmas 🎄
   - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/Number%20of%20Dice%20Rolls%20With%20Target%20Sum.py)
 
 
+### Minimum Time to Make Rope Colorful
+- **2023-12-27:** [LeetCode](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+  - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/Minimum%20Time%20to%20Make%20Rope%20Colorful.py)
+
+
 
