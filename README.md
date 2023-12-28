@@ -36,4 +36,7 @@ Merry Christmas 🎄
   - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/Minimum%20Time%20to%20Make%20Rope%20Colorful.py)
 
 
-
+### String Compression II
+- **2023-12-27:** [LeetCode](https://leetcode.com/problems/string-compression-ii/)
+  - [NeetCode](https://www.youtube.com/watch?v=ISIG3o-Xofg) I recommend watching NeetCode's video since it helped me understand the logic of this problem 
+  - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/String%Compression%II.py)
