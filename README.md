@@ -37,6 +37,6 @@ Merry Christmas 🎄
 
 
 ### String Compression II
-- **2023-12-27:** [LeetCode](https://leetcode.com/problems/string-compression-ii/)
+- **2023-12-28:** [LeetCode](https://leetcode.com/problems/string-compression-ii/)
   - [NeetCode](https://www.youtube.com/watch?v=ISIG3o-Xofg) I recommend watching NeetCode's video since it helped me understand the logic of this problem 
   - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/String%20Compression%20II.py)
