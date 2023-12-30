@@ -40,3 +40,7 @@ Merry Christmas 🎄
 - **2023-12-28:** [LeetCode](https://leetcode.com/problems/string-compression-ii/)
   - [NeetCode](https://www.youtube.com/watch?v=ISIG3o-Xofg) I recommend watching NeetCode's video since it helped me understand the logic of this problem 
   - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/String%20Compression%20II.py)
+
+### Redistribute Characters to Make All Strings Equal
+- **2023-12-29:** [LeetCode](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)
+  - [Solution](https://github.com/Spiegelin/Daily-Leetcode/blob/main/Make%20All%20String%20Equal.py)
